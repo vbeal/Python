@@ -1,6 +1,6 @@
 '''
 Gerados de CPFs válidos.
-Automáticamente usando o Randon
+Automáticamente usando o Random
 '''
 import random
 
